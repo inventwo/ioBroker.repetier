@@ -1,13 +1,17 @@
 {
     "common": {
         "name": "repetier",
-        "version": "0.0.2",
-        "news": {
-            "0.0.2": {
-                "en": "initial release",
-                "de": "initial release"
-                   }
+        "version": "0.1.0",
+      "news": {
+        "0.1.0": {
+          "en": "bug fix",
+          "de": "Feherbehebung"
         },
+        "0.0.2": {
+          "en": "initial release",
+          "de": "initial release"
+        }
+      },
         "title": "Repetier-Server",
         "titleLang": {
             "en": "Repetier",
