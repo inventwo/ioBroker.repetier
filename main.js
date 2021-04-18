@@ -122,7 +122,7 @@ adapter.log.debug('repetier refreshing states... ');
                             });
                         adapter.setState(path  + "." + printerone + '.DruckzeitAbgeschlossen', {val: Math.round (1 * content[0].printedTimeComp.toFixed(2) / 60), ack: true});
                         
-                          adapter.setObjectNotExists(path + printerone + '.Restzeit', {
+                          adapter.setObjectNotExists(path + "."  + printerone + '.Restzeit', {
                                 type: 'state',
                                 common: {
                                     name: 'Restzeit',
