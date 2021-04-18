@@ -27,17 +27,18 @@
     "email": "coyote_f@web.de"
   },
     "bundleDependencies": false,
-    "contributors": [
-        {
-            "name": "Coyote",
-            "email": "coyote_f@web.de"
-        }
-    ],
+  "contributors": [
+    {
+      "name": "Coyote",
+      "email": "coyote_f@web.de"
+    },
+    "skvarel <skvarel@inventwo.com>"
+  ],
     "dependencies": {
         "request": "^2.72.0"
     },
     "deprecated": false,
-    "description": "ioBroker repetier Adapter",
+    "description": "ioBroker repetier Adapter mod.by inventwo",
     "devDependencies": {
         "chai": "^4.1.2",
         "gulp": "^3.9.1",
@@ -48,7 +49,8 @@
         "ioBroker",
         "repetier",
         "Smart Home",
-        "3d Druck"
+        "3d Druck",
+        "inventwo"
     ],
     "license": "MIT",
     "main": "main.js",

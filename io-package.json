@@ -1,8 +1,12 @@
 {
     "common": {
         "name": "repetier",
-        "version": "0.1.2",
+        "version": "0.1.3",
       "news": {
+        "0.1.3": {
+          "en": "modification",
+          "de": "Codeanpassungen"
+        },
         "0.1.2": {
           "en": "bug fix",
           "de": "Feherbehebung"
@@ -20,7 +24,7 @@
           "de": "initial release"
         }
       },
-        "title": "Repetier-Server",
+        "title": "Repetier-Server (inventwo mod)",
         "titleLang": {
             "en": "Repetier",
             "de": "Repetier"
