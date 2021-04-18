@@ -217,7 +217,7 @@ adapter.log.debug('repetier refreshing states... ');
              if(content[1].job === 'none'){      
             
              adapter.setState(path + "."  + printertwo + '.GesamtDruckzeit', '----');
-             adapter.setState(path + "."  + "."  + printertwo + '.DruckzeitAbgeschlossen', '----'); 
+             adapter.setState(path + "."  + printertwo + '.DruckzeitAbgeschlossen', '----'); 
              adapter.setState(path + "."  + printertwo + '.Restzeit', '----');
              adapter.setState(path + "."  + printertwo + '.Status', '----');
             
