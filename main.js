@@ -18,7 +18,7 @@ var printerrepthree ;
 var printerthree ; 
 var printerrepfour ;
 var printerfour ; 
-var path  ;
+var path ;
 
 adapter.on('ready', function () {
     main();

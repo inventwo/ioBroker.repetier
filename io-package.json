@@ -1,21 +1,25 @@
 {
     "common": {
         "name": "repetier",
-        "version": "0.1.1",
+        "version": "0.1.2",
       "news": {
-          "0.1.1": {
+        "0.1.2": {
           "en": "bug fix",
           "de": "Feherbehebung"
-          },
-          "0.1.0": {
-            "en": "bug fix",
-            "de": "Feherbehebung"
-          },
-          "0.0.2": {
-            "en": "initial release",
-            "de": "initial release"
-          }
         },
+        "0.1.1": {
+          "en": "bug fix",
+          "de": "Feherbehebung"
+        },
+        "0.1.0": {
+          "en": "bug fix",
+          "de": "Feherbehebung"
+        },
+        "0.0.2": {
+          "en": "initial release",
+          "de": "initial release"
+        }
+      },
         "title": "Repetier-Server",
         "titleLang": {
             "en": "Repetier",

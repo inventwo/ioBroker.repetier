@@ -26,6 +26,9 @@ Enter the IP address of Repetier server, enter port (default 3344) and API key (
 
 ## Changelog
 
+### 0.1.2
+* (skvarel) Bug Fix
+
 ### 0.1.1
 * (skvarel) Bug Fix
 
