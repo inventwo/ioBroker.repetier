@@ -1,59 +1,69 @@
 {
-    "common": {
-        "name": "repetier",
-        "version": "0.1.4",
-      "news": {
-        "0.1.4": {
-          "en": "bug fix",
-          "de": "Feherbehebung"
-        },
-        "0.1.3": {
-          "en": "modification",
-          "de": "Codeanpassungen"
-        },
-        "0.1.2": {
-          "en": "bug fix",
-          "de": "Feherbehebung"
-        },
-        "0.1.1": {
-          "en": "bug fix",
-          "de": "Feherbehebung"
-        },
-        "0.1.0": {
-          "en": "bug fix",
-          "de": "Feherbehebung"
-        },
-        "0.0.2": {
-          "en": "initial release",
-          "de": "initial release"
-        }
+  "common": {
+    "name": "Repetier-Server (inventwo mod)",
+    "version": "0.1.4",
+    "news": {
+      "0.1.4": {
+        "en": "bug fix",
+        "de": "Feherbehebung"
       },
-        "title": "Repetier-Server (inventwo mod)",
-         "titleLang": {
-            "en": "Repetier-Server (inventwo mod)",
-            "de": "Repetier-Server (inventwo mod)"
+      "0.1.3": {
+        "en": "modification",
+        "de": "Codeanpassungen"
       },
-        "desc": {
-            "en": "Repetier",
-            "de": "Repetier"
-        },
-        "authors": [
-            "Coyote <coyote_f@web.de>"
-        ],
-        "platform": "Javascript/Node.js",
-        "mode": "daemon",
-        "icon": "repetier.png",
-        "materialize": true,
-        "enabled": true,
-        "extIcon": "https://raw.githubusercontent.com/coyote1/ioBroker.repetier/master/admin/repetier.png",
-        "keywords": [
-            "repetier"
-        ],
-        "license": "MIT",
-        "readme": "https://github.com/coyote1/ioBroker.repetier/blob/master/README.md",
-        "loglevel": "info",
-        "type": "hardware"
+      "0.1.2": {
+        "en": "bug fix",
+        "de": "Feherbehebung"
+      },
+      "0.1.1": {
+        "en": "bug fix",
+        "de": "Feherbehebung"
+      },
+      "0.1.0": {
+        "en": "bug fix",
+        "de": "Feherbehebung"
+      },
+      "0.0.2": {
+        "en": "initial release",
+        "de": "initial release"
+      }
     },
-    "native": {},
-    "objects": []
+    "title": "Repetier-Server (inventwo mod)",
+    "titleLang": {
+      "en": "Repetier-Server (inventwo mod)",
+      "de": "Repetier-Server (inventwo mod)"
+    },
+    "desc": {
+      "en": "Repetier-Server (inventwo mod)",
+      "de": "Repetier-Server (inventwo mod)"
+    },
+    "authors": [
+      "Coyote <coyote_f@web.de>"
+    ],
+    "platform": "Javascript/Node.js",
+    "mode": "daemon",
+    "icon": "repetier.png",
+    "materialize": true,
+    "enabled": true,
+    "extIcon": "https://raw.githubusercontent.com/coyote1/ioBroker.repetier/master/admin/repetier.png",
+    "keywords": [
+      "repetier"
+    ],
+    "license": "MIT",
+    "readme": "https://github.com/coyote1/ioBroker.repetier/blob/master/README.md",
+    "loglevel": "info",
+    "type": "hardware",
+    "materializeTab": true,
+    "adminTab": {
+      "name": {
+        "en": "Repetier",
+        "de": "Repetier"
+      },
+      "link": "/adapter/vis-inventwo/index_m.html?%instance%",
+      "fa-icon": "</i><img style='width:24px;margin-bottom:-6px;' src='https://raw.githubusercontent.com/coyote1/ioBroker.repetier/master/admin/repetier.png'><i>"
+    }
+  },
+    
+  "native": {},
+  "objects": []
 }
