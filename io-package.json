@@ -1,8 +1,12 @@
 {
   "common": {
     "name": "Repetier-Server (inventwo mod)",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "news": {
+      "0.1.5": {
+        "en": "bug fix",
+        "de": "Feherbehebung"
+      },
       "0.1.4": {
         "en": "bug fix",
         "de": "Feherbehebung"
