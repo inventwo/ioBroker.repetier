@@ -1,6 +1,6 @@
 {
   "common": {
-    "name": "Repetier-Server (inventwo mod)",
+    "name": "repetier",
     "version": "0.1.5",
     "news": {
       "0.1.5": {
