@@ -52,16 +52,7 @@
     "license": "MIT",
     "readme": "https://github.com/coyote1/ioBroker.repetier/blob/master/README.md",
     "loglevel": "info",
-    "type": "hardware",
-    "materializeTab": true,
-    "adminTab": {
-      "name": {
-        "en": "Repetier",
-        "de": "Repetier"
-      },
-      "link": "/adapter/vis-inventwo/index_m.html?%instance%",
-      "fa-icon": "</i><img style='width:24px;margin-bottom:-6px;' src='https://raw.githubusercontent.com/coyote1/ioBroker.repetier/master/admin/repetier.png'><i>"
-    }
+    "type": "hardware"    
   },
     
   "native": {},
