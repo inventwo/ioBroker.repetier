@@ -32,17 +32,18 @@
         "de": "initial release"
       }
     },
-    "title": "Repetier-Server",
+    "title": "Repetier-Server (inventwo mod)",
     "titleLang": {
-      "en": "Repetier-Server",
-      "de": "Repetier-Server"
+      "en": "Repetier-Server (inventwo mod)",
+      "de": "Repetier-Server (inventwo mod)"
     },
     "desc": {
       "en": "Repetier-Server (inventwo mod)",
       "de": "Repetier-Server (inventwo mod)"
     },
     "authors": [
-      "Coyote <coyote_f@web.de>"
+      "Coyote <coyote_f@web.de>",
+      "skvarel <skvarel@inventwo.com>"
     ],
     "platform": "Javascript/Node.js",
     "mode": "daemon",
@@ -56,7 +57,7 @@
     "license": "MIT",
     "readme": "https://github.com/coyote1/ioBroker.repetier/blob/master/README.md",
     "loglevel": "info",
-    "type": "hardware"    
+    "type": "hardware"
   },
     
   "native": {},
